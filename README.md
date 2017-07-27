@@ -1,4 +1,5 @@
-# vue2.0 豆瓣电影WebAppz
+# vue2.0 豆瓣电影WebApp
+Thanks for ct
 
 ## 项目简介
 
